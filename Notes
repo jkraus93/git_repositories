@@ -1,0 +1,2 @@
+#powrot do poprzedniej wersji
+git reset HEAD~1
