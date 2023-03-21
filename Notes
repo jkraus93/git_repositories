@@ -1,2 +1,4 @@
 #powrot do poprzedniej wersji
 git reset HEAD~1
+#wyswietl sciezke
+pwd
